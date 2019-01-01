@@ -1,4 +1,7 @@
 # gtd-app
+
+[![Build Status](https://travis-ci.org/dsaltares/gtd-app.svg?branch=master)](https://travis-ci.org/dsaltares/gtd-app)
+
 Learning React by building yet another GTD app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
