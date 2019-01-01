@@ -3,19 +3,6 @@ import logo from './logo.svg';
 import './App.css';
 
 const App = function App() {
-    var color = "blue";
-    var name = "ishmael";
-    var number = 123;
-
-    var arr = [color, name];
-
-    if (arr.indexOf("blue") > 0) { // Noncompliant
-        console.log('hello');
-    }
-    if (arr[0].indexOf("ish") > 0) { // Noncompliant
-        console.log('blah');
-    }
-
     return (
         <div className="App">
             <header className="App-header">
