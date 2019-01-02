@@ -1,6 +1,7 @@
 # gtd-app
 
 [![Build Status](https://travis-ci.org/dsaltares/gtd-app.svg?branch=master)](https://travis-ci.org/dsaltares/gtd-app)
+[![codecov](https://codecov.io/gh/dsaltares/gtd-app/branch/master/graph/badge.svg)](https://codecov.io/gh/dsaltares/gtd-app)
 
 Learning React by building yet another GTD app
 
